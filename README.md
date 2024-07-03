@@ -1,8 +1,4 @@
-<p align="center">
-  <img alt="discord_bot.py" src="https://i.alexflipnote.dev/MiFAeTE.png" width="750px">
-</p>
-
-Do you need more help? Visit my server here: **https://discord.gg/AlexFlipnote** 🍺
+Do you need more help? Visit my server here: **https://discord.gg/eFR8F2U8** 🍺
 
 ## Requirements
 - Python 3.10 and up - https://www.python.org/downloads/
